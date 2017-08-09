@@ -6,6 +6,7 @@ I hope to use this blog to serve as a record of its life in my care. From its pu
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>

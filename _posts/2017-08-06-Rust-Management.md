@@ -15,7 +15,7 @@ Kurust is a rust "converter", it supposidly changes the chemical composition of 
 To do this effectivly, the Kurust needs to come into contact with all the rust (so soak in). I went for a couple coats in the hope that it got in propperly.
 
 After that, the Kurust needs to be painted over. For now, I have gone with a clear laqure but I will replace this down the line with a nice coat of black paint.
-![Hammerite Kurust]({{ site.url }}/img/2017-08-06-Boot.jpg)
-![Hammerite Kurust]({{ site.url }}/img/2017-08-06-UnderSeats.jpg)
+![Boot Result]({{ site.url }}/img/2017-08-06-Boot.jpg)
+![Under seat result]({{ site.url }}/img/2017-08-06-UnderSeats.jpg)
 
 Cost: £9.99

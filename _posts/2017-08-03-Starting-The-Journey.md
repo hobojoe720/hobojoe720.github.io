@@ -3,7 +3,6 @@ layout: post
 title: "Starting the Journey"
 date:   2017-08-03 21:00 -0600
 category: 
-- jimny
 - blog
 ---
 ![Sign for Wakefield]({{ site.url }}/img/2017-08-03-WakeField.jpg)

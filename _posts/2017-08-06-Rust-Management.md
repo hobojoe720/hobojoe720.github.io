@@ -3,7 +3,6 @@ layout: post
 title:  "Rust Management"
 date:   2017-08-06 21:00 -0600
 category: 
-- jimny
 - maintenance
 ---
 ![Hammerite Kurust]({{ site.url }}/img/2017-08-06-Kurust.jpg)

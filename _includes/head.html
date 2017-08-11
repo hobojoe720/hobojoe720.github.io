@@ -15,7 +15,7 @@
     {% endunless %}
   {% else %}
     {% assign word = page.title | downcase | replace: ' ', '_' %}
-    <title>{% localize word %}</title>
+    <title></title>
   {% endif %}
   <meta name="description" content="{{site.description}}">
   <link rel="stylesheet" type="text/css" href="{{site.production_url}}/public/css/style.min.css">

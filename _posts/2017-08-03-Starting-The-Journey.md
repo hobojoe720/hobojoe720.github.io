@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Starting the Journey"
+title: "Starting the Journey"
 date:   2017-08-03 21:00 -0600
-categories: jimny blog
+category: 
+- jimny
+- blog
 ---
 ![Sign for Wakefield]({{ site.url }}/img/2017-08-03-WakeField.jpg)
 Following the advert on Auto trader, and a subsequent chat with the dealer, I headed up to Wakefield in West Yorkshire from Kent to view a late 2003 (registered 2004) Suzuki Jimny, 63,125 miles on the clock and a single women owner.
@@ -16,3 +18,5 @@ After 3 hours on the road after work, and a late evening test drive. I purchased
 A quick 7 mile drive to the services, where he was topped up with fuel ready to begin the 220 mile journey home. A baptism of fire.
 
 Neadless to say, we made it home. Arriving just after 3am with not a single issue... lets hope it continues
+
+Cost: £1,735.45

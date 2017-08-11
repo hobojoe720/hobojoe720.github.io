@@ -4,6 +4,7 @@ title:  "Rust Management"
 date:   2017-08-06 21:00 -0600
 category: 
 - maintenance
+banner_image: sample-banner-image-1.jpg
 ---
 ![Hammerite Kurust]({{ site.url }}/img/2017-08-06-Kurust.jpg)
 This weekends challenge was to head off the main issue facing the Suzuki Jimny... rust. With an all metal body, and a boot pan that traps moisture it is common for rust to form here.

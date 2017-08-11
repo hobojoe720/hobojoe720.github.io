@@ -4,6 +4,7 @@ title: "Starting the Journey"
 date:   2017-08-03 21:00 -0600
 category: 
 - blog
+banner_image: sample-banner-image-1.jpg
 ---
 ![Sign for Wakefield]({{ site.url }}/img/2017-08-03-WakeField.jpg)
 Following the advert on Auto trader, and a subsequent chat with the dealer, I headed up to Wakefield in West Yorkshire from Kent to view a late 2003 (registered 2004) Suzuki Jimny, 63,125 miles on the clock and a single women owner.

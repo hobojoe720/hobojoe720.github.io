@@ -4,7 +4,7 @@
 # Site settings
 
 title: My Jimny Journey
-email: jaeheelee0113@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   My Journey with the Suzuki Jimny. Covering the ups and downs, costs and pitfalls.
 baseurl: "" # the subpath of your site, e.g. /blog
